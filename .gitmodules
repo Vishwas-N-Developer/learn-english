@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Vishwas-N-Developer/learnEnglish
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Vishwas-N-Developer/learn-english-frontend
