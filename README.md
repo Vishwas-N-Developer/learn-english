@@ -2,7 +2,7 @@
 
 This project comprises 2 repositories
 - Backend (Rails): https://github.com/Vishwas-N-Developer/learnEnglish
-- Frontend (React): https://github.com/Vishwas-N-Developer/learn-english-frontend.git
+- Frontend (React): https://github.com/Vishwas-N-Developer/learn-english-frontend
 
 ## Installation
 
@@ -16,7 +16,7 @@ git clone https://github.com/Vishwas-N-Developer/learn-english.git --recurse-sub
 
 Navigate to Application Directory
 ```sh
-cd learn-english.git
+cd learn-english
 ```
 
 ## Testing
